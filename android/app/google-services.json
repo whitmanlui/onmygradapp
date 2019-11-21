@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "1039174681543",
+    "firebase_url": "https://onmygrad.firebaseio.com",
+    "project_id": "onmygrad",
+    "storage_bucket": "onmygrad.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1039174681543:android:e9a29e819af3c068",
+        "android_client_info": {
+          "package_name": "com.onmygradapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1039174681543-tdq4qo4c95u2nearl8ds8m8k57ppbuib.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAhRVSYNEWINb_Tddvb0lxVhEr3ckHwQro"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1039174681543-tdq4qo4c95u2nearl8ds8m8k57ppbuib.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "1039174681543-0ash9ef7egpsq6f1irrscpmps7vbpb2n.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "org.reactjs.native.example.onmygradapp"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
